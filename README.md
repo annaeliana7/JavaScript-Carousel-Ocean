@@ -44,7 +44,7 @@
 **JavaScript Carousel Ocean** 
 <br>
 
-Discovering the Ocean's Wonders: A JavaScript Carousel Repository Employing HTML, CSS, JavaScript, Webpack, and Linters, Presenting a Graceful Tour of the Waters Crafted by the Almighty.
+Discovering the Ocean's Wonders: A JavaScript Carousel Repository Employing HTML, CSS, JavaScript, Webpack, Linters, Visual Studio Code, and GitHub Pages. Presenting a Graceful Tour of the Waters Crafted by the Almighty.
 
 <br>
 
